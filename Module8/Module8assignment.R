@@ -1,0 +1,1 @@
+X <- read.table("Assignment_6_dataset.txt", header = TRUE)
