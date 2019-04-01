@@ -1,0 +1,34 @@
+---
+title: "Module 12 assignment"
+author: "Surya Dhulipala"
+date: "April 1, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Module 12
+
+This module is about generating R Markdown documents.  Markdown is, essentially, a way of integrating code into text seamlessly with the option of exporting as HTML or Word documents.  
+
+I can *add italics* **and other formatted text** to my words, or can add equations such as $A^{2} + B^{2} = C^{2}$. I can also add chunks of code, as shown below.  
+
+```{r}
+print("Hello World!")
+
+```
+
+Finally, I can, among other things:
+
+ * create inline code such as `Freq <- c(0.6, 0.3, 0.4, 0.4, 0.2, 0.6, 0.3, 0.4, 0.9, 0.2)`
+ 
+ * create plots and tables using Markdown
+ 
+ * create lists
+ 
+ * [create links](http://www.google.com)
+ 
+ * create blockquotes
+ 
