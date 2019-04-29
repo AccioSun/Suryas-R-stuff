@@ -1,0 +1,10 @@
+Package: SimpleDNA
+Type: Package
+Title: Provides a Collection of Tools To Analyze DNA Strings
+Version: 0.1.0
+Author@R: "Surya Dhulipala <sdhulipala@health.usf.edu> [aut, cre]"
+Description: Functions for analyzing a FASTA file with DNA that 
+Depends: R (>= 3.1.2)
+License: CC0
+Encoding: UTF-8
+LazyData: true
